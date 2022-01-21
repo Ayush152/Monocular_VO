@@ -10,11 +10,11 @@ so the scale informaion is extracted from the KITTI dataset ground truth files.
 
 ## Demo Video
 
-[![Demo video](http://share.gifyoutube.com/Ke1ope.gif)](http://www.youtube.com/watch?v=homos4vd_Zs)
+[![Demo video](http://share.gifyoutube.com/Ke1ope.gif)](https://youtu.be/Q7G07Ji3tLc)
 
 
 ## Requirements
-OpenCV 3.0
+OpenCV 4.0
 
 ## How to compile?
 Provided with this repo is a CMakeLists.txt file, which you can use to directly compile the code as follows:
@@ -36,10 +36,10 @@ or else the sequences from [KITTI's Visual Odometry Dataset](http://www.cvlibs.n
 In order to run this algorithm on your own data, you must modify the intrinsic calibration parameters in the code.
 
 ## Performance
-![Results on the KITTI VO Benchmark](http://avisingh599.github.io/images/visodo/2K.png)
+<!-- ![Results on the KITTI VO Benchmark](http://avisingh599.github.io/images/visodo/2K.png) -->
 
 ## Contact
-For any queries, contact: avisingh599@gmail.com
+For any queries, contact: aayushgarg152@gmail.com
 
 ## License
 MIT
