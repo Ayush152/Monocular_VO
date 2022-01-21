@@ -1,17 +1,16 @@
-This is an OpenCV 3.0 based implementation of a monocular visual odometry algorithm.
+This is an OpenCV 4.0 based implementation of a monocular visual odometry algorithm.
 
-## Algorithm
+<!-- ## Algorithm
 Uses Nister's Five Point Algorithm for Essential Matrix estimation, and FAST features, with a KLT tracker.
 More details are available [here as a report](http://avisingh599.github.io/assets/ugp2-report.pdf), and
 [here as a blog post](http://avisingh599.github.io/vision/monocular-vo/). 
 
 Note that this project is not yet capable of doing reliable relative scale estimation, 
-so the scale informaion is extracted from the KITTI dataset ground truth files.
+so the scale informaion is extracted from the KITTI dataset ground truth files. -->
 
 ## Demo Video
 
-[![Demo video](http://share.gifyoutube.com/Ke1ope.gif)](https://youtu.be/Q7G07Ji3tLc)
-
+[![Demo video](http://share.gifyoutube.com/Q7G07Ji3tLc.gif)](https://youtu.be/Q7G07Ji3tLc)
 
 ## Requirements
 OpenCV 4.0
