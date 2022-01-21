@@ -1,0 +1,58 @@
+{
+    "version": "2.0.0",
+    "command": "g++",
+    "args": ["-g", "main.cpp", "-o", "mosse", "-I/usr/local/include/opencv", "-I/usr/local/include", "-L/usr/local/lib",
+     "-lopencv_shape", "-lopencv_stitching", "-lopencv_objdetect", "-lopencv_superres", "-lopencv_videostab", "-lopencv_calib3d",
+     "-lopencv_features2d", "-lopencv_highgui", "-lopencv_videoio", "-lopencv_imgcodecs", "-lopencv_video", "-lopencv_photo", 
+     "-lopencv_ml", "-lopencv_imgproc", "-lopencv_flann", "-lopencv_core", 
+    "-I/home/colm/Qt/5.8/gcc_64/include/",
+    "-L/home/ayush/Qt/5.8/gcc_64/lib",
+    "-lQt5Core",
+    "-licui18n",
+    "-licuuc",
+    "-licudata"
+],
+"tasks": [
+    {
+        "label": "g++",
+        "type": "shell",
+        "command": "g++",
+        "args": [
+            "-g",
+            "main.cpp",
+            "-o",
+            "mosse",
+            "-I/usr/local/include/opencv",
+            "-I/usr/local/include",
+            "-L/usr/local/lib",
+            "-lopencv_shape",
+            "-lopencv_stitching",
+            "-lopencv_objdetect",
+            "-lopencv_superres",
+            "-lopencv_videostab",
+            "-lopencv_calib3d",
+            "-lopencv_features2d",
+            "-lopencv_highgui",
+            "-lopencv_videoio",
+            "-lopencv_imgcodecs",
+            "-lopencv_video",
+            "-lopencv_photo",
+            "-lopencv_ml",
+            "-lopencv_imgproc",
+            "-lopencv_flann",
+            "-lopencv_core",
+            "-I/home/colm/Qt/5.8/gcc_64/include/",
+            "-L/home/ayush/Qt/5.8/gcc_64/lib",
+            "-lQt5Core",
+            "-licui18n",
+            "-licuuc",
+            "-licudata"
+        ],
+        "problemMatcher": [],
+        "group": {
+            "_id": "build",
+            "isDefault": false
+        }
+    }
+]
+}
