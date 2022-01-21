@@ -9,8 +9,9 @@ Note that this project is not yet capable of doing reliable relative scale estim
 so the scale informaion is extracted from the KITTI dataset ground truth files. -->
 
 ## Demo Video
+![Monocular_Visual_Odometry](https://user-images.githubusercontent.com/71000616/150597975-bb72325c-04de-4e69-8a73-2b2c6d54ceac.gif)
 
-[![Demo video](https://img.youtube.com/vi/Q7G07Ji3tLc/0.jpg)](https://youtu.be/Q7G07Ji3tLc)
+<!-- [![Demo video](https://img.youtube.com/vi/Q7G07Ji3tLc/0.jpg)](https://youtu.be/Q7G07Ji3tLc) -->
 
 ## Requirements
 OpenCV 4.0
