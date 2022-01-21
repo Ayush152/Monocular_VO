@@ -10,7 +10,7 @@ so the scale informaion is extracted from the KITTI dataset ground truth files. 
 
 ## Demo Video
 
-[![Demo video](http://share.gifyoutube.com/Q7G07Ji3tLc.gif)](https://youtu.be/Q7G07Ji3tLc)
+[![Demo video](https://img.youtube.com/vi/Q7G07Ji3tLc/0.jpg)](https://youtu.be/Q7G07Ji3tLc)
 
 ## Requirements
 OpenCV 4.0
