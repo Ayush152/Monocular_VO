@@ -36,11 +36,11 @@ In order to run this algorithm, you need to have either your own data,
 or else the sequences from [KITTI's Visual Odometry Dataset](http://www.cvlibs.net/datasets/kitti/eval_odometry.php).
 In order to run this algorithm on your own data, you must modify the intrinsic calibration parameters in the code.
 
-## Performance
+<!-- ## Performance -->
 <!-- ![Results on the KITTI VO Benchmark](http://avisingh599.github.io/images/visodo/2K.png) -->
 
 ## Contact
 For any queries, contact: aayushgarg152@gmail.com
 
-## License
-MIT
+<!-- ## License
+MIT -->
